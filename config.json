@@ -7,14 +7,15 @@
   "problems": [
     "hello-world",
     "fizzbuzz",
-		"leap",
+    "leap",
     "hamming",
-		"rna-transcription",
-		"bob",
-		"gigasecond",
-		"word-count",
+    "rna-transcription",
+    "bob",
+    "gigasecond",
+    "word-count",
+    "isogram",
     "pangram",
-		"beer-song",
+    "beer-song",
     "phone-number",
     "anagram",
     "food-chain",
@@ -49,6 +50,7 @@
     "secret-handshake",
     "linked-list",
     "wordy",
+    "flatten-array",
     "hexadecimal",
     "largest-series-product",
     "kindergarten-garden",
@@ -70,12 +72,13 @@
     "two-bucket"
   ],
   "deprecated": [
-		"nucleotide-count",
+    "nucleotide-count",
     "point-mutations"
   ],
   "ignored": [
     "docs",
-    "node_modules"
+    "node_modules",
+    "img"
   ],
   "foregone": [
 
